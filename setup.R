@@ -13,5 +13,8 @@ library("tidyverse")
 #save to github
 #click setup.R
 #then click commit
+#git needs to know who you are - give git same info that github has
+
+
 
 
